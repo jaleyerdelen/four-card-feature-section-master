@@ -1,0 +1,98 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+.main{
+    text-align: center;
+    line-height: 10px;
+}
+.header{
+    color:hsl(229, 6%, 66%);
+    font-size: 40px;
+}
+.secondheader{
+    font-size: 40px;
+    color: hsl(234, 12%, 34%);
+}
+.text {
+    line-height: 20px;
+    color: 	rgb(192,192,192);
+}
+.paragraf{
+    margin-top:-10px;
+}
+.big-box{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+}
+.big-box p{
+    font-size: 12px;
+    color: hsl(229, 6%, 66%);
+    width: 250px;
+    margin-bottom: 50px;
+}
+.fieldone{
+    box-sizing: border-box;
+    display: flex;
+    padding: 20px;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1) ;
+    border-radius: 3px;
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+.first-box {
+    color: hsl(234, 12%, 34%);
+}
+.image{
+    width: 40px;
+    height:40px;
+    align-self: flex-end;
+}
+.fieldtwo{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    margin-left: 40px;
+    
+}
+.second-box{
+    color: hsl(234, 12%, 34%);
+}
+
+.fieldthree{
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    padding: 20px;
+    border-top: 4px solid hsl(0, 78%, 62%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    margin-bottom: 40px;
+    
+}
+.third-box{
+    color: hsl(234, 12%, 34%);
+}
+.fieldfour{
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    padding: 20px;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    
+}
+.fourth-box{
+    color: hsl(234, 12%, 34%);
+}
+.attribution{
+    margin-top: 30px;
+}
+
